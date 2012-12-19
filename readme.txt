@@ -14,8 +14,7 @@ This adds a checkbox to your comments page that replaces the text of
 all of the comments with "Herp Derp".  The setting is persistent for
 each user, via a cookie.
 
-Inspired by "Herp Derp Youtube Comments" by Tanner Stokes:
-http://www.tannr.com/herp-derp-youtube-comments/
+Inspired by "Herp Derp Youtube Comments" by Tanner Stokes.
 
 == Installation ==
 
