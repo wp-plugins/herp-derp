@@ -1,9 +1,9 @@
-=== Plugin Name ===
+=== Herp Derp ===
 
-Contributors: jwz@jwz.org
+Contributors: jwz
 Tags: herp, derp
 Requires at least: 2.7
-Tested up to: 3.2.1
+Tested up to: 3.5
 Stable tag: 1.3
 
 This plugin herps all the derps.

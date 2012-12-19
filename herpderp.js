@@ -21,7 +21,7 @@
    Inspired by "Herp Derp Youtube Comments" by Tanner Stokes:
    http://www.tannr.com/herp-derp-youtube-comments/
 
-   This version by jwz, created: 13-Dec-2012.
+   This version by jwz, created: 13-Dec-2012. Derp.
  */
 
 function derp(pp, herpa) {
@@ -41,10 +41,10 @@ function derp(pp, herpa) {
                       'derp', 'DERP', 'Derp'];
             var j;
             if (s == s.toLowerCase()) j = 0;
-            else if (s == s.toUpperCase()) j = 1;
+            else if (s.length > 1 && s == s.toUpperCase()) j = 1;
             else j = 2;
             if (Math.random() > 0.5) j += 3;
-            return hd[j]; // + "[" + s + "]";
+            return hd[j];
           });
       p.derp = p.derp.replace (/\n\n+/g, "<P>");
       p.derp = p.derp.replace (/\n/g, "<BR>");
