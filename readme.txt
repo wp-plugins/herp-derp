@@ -14,11 +14,16 @@ This adds a checkbox to your comments page that replaces the text of
 all of the comments with "Herp Derp".  The setting is persistent for
 each user, via a cookie.
 
-Inspired by "Herp Derp Youtube Comments" by Tanner Stokes.
+You may find that this makes [my blog](http://jwz.org/b/yhXv) easier
+to read. You may find that it makes *your* blog easier to read.
+
+Inspired by
+["Herp Derp Youtube Comments"](http://www.tannr.com/herp-derp-youtube-comments/)
+by Tanner Stokes.
 
 == Installation ==
 
-1. Upload the `herpderp` directory to your `/wp-content/plugins/` directory
+1. Upload the `herp-derp` directory to your `/wp-content/plugins/` directory
 2. Activate the plugin through the "Plugins" menu in WordPress
 3. Select the "Settings" page to decide whether to Herp by default.
 
