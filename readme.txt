@@ -4,7 +4,7 @@ Contributors: jwz
 Tags: herp, derp
 Requires at least: 2.7
 Tested up to: 3.5
-Stable tag: 1.3
+Stable tag: 1.0
 
 This plugin herps all the derps.
 
