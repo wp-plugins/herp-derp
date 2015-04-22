@@ -2,13 +2,13 @@
 /*
 Plugin Name: Herp Derp
 Plugin URI: http://www.jwz.org/herpderp/
-Version: 1.0
+Version: 1.1
 Description: This plugin adds a checkbox to replace the text of your comments with "Herp Derp".
 Author: Jamie Zawinski
 Author URI: http://www.jwz.org/
 */
 
-/* Copyright © 2012 Jamie Zawinski <jwz@jwz.org>
+/* Copyright © 2012-2015 Jamie Zawinski <jwz@jwz.org>
 
    Permission to use, copy, modify, distribute, and sell this software and its
    documentation for any purpose is hereby granted without fee, provided that

@@ -4,7 +4,7 @@ Contributors: jwz
 Tags: herp, derp
 Requires at least: 2.7
 Tested up to: 4.1.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 This plugin herps all the derps.
 
@@ -31,3 +31,12 @@ by Tanner Stokes.
 
 = 1.0 =
 * Created
+
+= 1.1 =
+* Apparently if a plugin hasn't been updated in over 2 years,
+  WordPress.org removes it from the public plugin directory under the
+  assumption that it is no longer maintained. That's my punishment for
+  getting it right the first time, I guess. 
+
+  So, I herped the version number. Derp.
+
